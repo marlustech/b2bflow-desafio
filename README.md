@@ -1,7 +1,4 @@
-<img width="446" height="319" alt="3" src="https://github.com/user-attachments/assets/10998b7e-f4ff-48e1-927e-bc93db1d26e2" />
-<img width="450" height="378" alt="2" src="https://github.com/user-attachments/assets/3dc501d2-7207-48f8-ac89-8352c3ade321" />
-<img width="445" height="381" alt="1" src="https://github.com/user-attachments/assets/c2f99a0c-3a0f-44d8-aed1-358ac2af5152" />
-<div align="center">
+
 
 <img src="https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
@@ -175,3 +172,7 @@ python main.py
 - ✅ Type hints e docstrings em todas as funções
 - ✅ Organização de imports seguindo PEP 8
 
+<img width="446" height="319" alt="3" src="https://github.com/user-attachments/assets/10998b7e-f4ff-48e1-927e-bc93db1d26e2" />
+<img width="450" height="378" alt="2" src="https://github.com/user-attachments/assets/3dc501d2-7207-48f8-ac89-8352c3ade321" />
+<img width="445" height="381" alt="1" src="https://github.com/user-attachments/assets/c2f99a0c-3a0f-44d8-aed1-358ac2af5152" />
+<div align="center">
